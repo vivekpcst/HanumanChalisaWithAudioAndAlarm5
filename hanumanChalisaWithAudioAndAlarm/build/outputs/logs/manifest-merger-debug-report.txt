@@ -1,0 +1,778 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+MERGED from [:flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:slidingUpPanelLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:roundedImageViewLib] E:\vivek\HanumanChalisaWithAudioAndAlarm5\roundedImageViewLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6a17472758553f106bed9dabe9d2e0ac\firebase-core-16.0.8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8c3030d54c355ecfe7b5d180476c299b\firebase-analytics-16.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f1fb37bded1b3eab4802018448533bc\firebase-iid-interop-16.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\472c1fc7ae234eeab1e8661e1d3e35ec\play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6219475007926e618c0ccef59df67e75\firebase-measurement-connector-17.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c03bb05b42be32ae53e9a2b2bc492a7\play-services-measurement-sdk-16.4.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ede359b0bf032c8682299509587a4e7b\play-services-stats-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4ba57973ce756796cf628c673ef76157\play-services-measurement-base-16.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7f95365a22a2dda7ebd34add34b1d03b\play-services-ads-identifier-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a94edf78a298bc4b357b6079e102cc4b\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b7dc2e499cd571b6c5ba0eec437866f1\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9524f5404de7b2826639b0f6a372f533\glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ad6141accb91052c9870b8d2e14fec9d\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e2a029a3290af16a4d419d2d501adeda\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6d1ac33fa7bf63a59abf96edc65f6fce\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a063d58e888064bd018cfb793522c0df\gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+	package
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:4:5-54
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:1-223:12
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:7:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:12:22-64
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:14:5-82
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:14:22-79
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:18:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:19:22-71
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:20:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.READ_CALENDAR
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:28:5-72
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:28:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:29:22-70
+supports-screens
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:31:5-37:11
+	android:largeScreens
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:33:9-36
+	android:smallScreens
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:35:9-36
+	android:normalScreens
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:34:9-37
+	android:xlargeScreens
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:36:9-37
+	android:anyDensity
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:32:9-34
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:39:5-80
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:39:22-77
+application
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:41:5-221:19
+MERGED from [:flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:slidingUpPanelLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:slidingUpPanelLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6a17472758553f106bed9dabe9d2e0ac\firebase-core-16.0.8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6a17472758553f106bed9dabe9d2e0ac\firebase-core-16.0.8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8c3030d54c355ecfe7b5d180476c299b\firebase-analytics-16.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8c3030d54c355ecfe7b5d180476c299b\firebase-analytics-16.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f1fb37bded1b3eab4802018448533bc\firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f1fb37bded1b3eab4802018448533bc\firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\472c1fc7ae234eeab1e8661e1d3e35ec\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\472c1fc7ae234eeab1e8661e1d3e35ec\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6219475007926e618c0ccef59df67e75\firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6219475007926e618c0ccef59df67e75\firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c03bb05b42be32ae53e9a2b2bc492a7\play-services-measurement-sdk-16.4.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c03bb05b42be32ae53e9a2b2bc492a7\play-services-measurement-sdk-16.4.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ede359b0bf032c8682299509587a4e7b\play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ede359b0bf032c8682299509587a4e7b\play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4ba57973ce756796cf628c673ef76157\play-services-measurement-base-16.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4ba57973ce756796cf628c673ef76157\play-services-measurement-base-16.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7f95365a22a2dda7ebd34add34b1d03b\play-services-ads-identifier-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7f95365a22a2dda7ebd34add34b1d03b\play-services-ads-identifier-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9524f5404de7b2826639b0f6a372f533\glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9524f5404de7b2826639b0f6a372f533\glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a063d58e888064bd018cfb793522c0df\gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a063d58e888064bd018cfb793522c0df\gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:44:9-41
+	android:protectionLevel
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:45:9-44
+	android:allowBackup
+		ADDED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:43:9-38
+		REJECTED from [:flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-45
+		REJECTED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:46:9-52
+		REJECTED from [:flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-40
+		REJECTED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:47:9-51
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:42:9-58
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.SplashActivity
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:48:9-57:20
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:49:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:55:27-74
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.StartManualActivity
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:58:9-61:15
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:59:13-48
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.English
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:63:13-36
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.BaseActivity
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:65:9-67:52
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:66:13-41
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.About
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:68:9-71:15
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:69:13-34
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.HanuAlarm
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:72:9-74:52
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:73:13-38
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.SnoozeActivity
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:75:9-78:64
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:77:13-49
+	android:theme
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:78:13-61
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:76:13-43
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.MultipleAlarmActivity
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:80:13-50
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.SetAlarmActivity
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:82:9-89:20
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:84:13-49
+	android:parentActivityName
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:85:13-64
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:83:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:86:13-88:57
+	android:value
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:88:17-55
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:87:17-63
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.AlarmTimeDetail
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:90:9-95:20
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:91:13-44
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.Feedback
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:98:13-37
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.Play
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:100:9-42
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:100:19-39
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.FestivalCalendarActivity
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:101:9-62
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:101:19-59
+receiver#com.dzo.HanumanChalisaWithAudioAndAlarm.NotificatioAlarmReceiver
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:118:9-121:20
+	android:enabled
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:119:13-35
+	android:exported
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:120:13-37
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:118:19-98
+receiver#com.dzo.HanumanChalisaWithAudioAndAlarm.receiver.AlarmReceiver
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:123:9-130:20
+	android:enabled
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:125:13-35
+	android:exported
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:126:13-37
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:124:13-51
+intent-filter#action:name:com.dzo.HanumanChalisaWithAudioAndAlarm.RECEIVEALARM
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:127:13-129:29
+action#com.dzo.HanumanChalisaWithAudioAndAlarm.RECEIVEALARM
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:128:17-95
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:128:25-92
+receiver#com.dzo.HanumanChalisaWithAudioAndAlarm.receiver.BootCompleteReceiver
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:131:9-138:20
+	android:enabled
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:134:13-37
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:132:13-58
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:135:13-137:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:136:17-79
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:136:25-76
+provider#com.dzo.HanumanChalisaWithAudioAndAlarm.contentprovider.FestivalCalendarProvider
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:141:9-144:40
+	android:authorities
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:143:13-116
+	android:exported
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:144:13-37
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:142:13-69
+service#com.dzo.HanumanChalisaWithAudioAndAlarm.calendarsync.SyncService
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:146:9-164:19
+	android:exported
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:148:13-37
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:147:13-53
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:154:13-156:29
+action#android.content.SyncAdapter
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:155:17-70
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:155:25-67
+intent-filter#action:name:com.google.android.c2dm.intent.REGISTRATION
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:157:13-159:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:158:17-86
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:158:25-83
+meta-data#android.content.SyncAdapter
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:161:13-163:55
+	android:resource
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:163:17-52
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:162:17-59
+service#com.dzo.HanumanChalisaWithAudioAndAlarm.account.GenericAccountService
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:174:9-187:19
+	android:exported
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:176:13-37
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:175:13-58
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:177:13-179:29
+action#android.accounts.AccountAuthenticator
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:178:17-80
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:178:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:184:13-186:57
+	android:resource
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:186:17-54
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:185:17-69
+service#com.dzo.HanumanChalisaWithAudioAndAlarm.firebase.FirebaseNotificationService
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:188:9-203:19
+	android:exported
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:189:13-37
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:188:18-70
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:191:13-193:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:192:17-78
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:192:25-75
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:194:13-196:62
+	android:resource
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:196:17-59
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:195:17-87
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:197:13-199:56
+	android:resource
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:199:17-53
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:198:17-88
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:200:13-202:54
+	android:value
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:202:17-51
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:201:17-93
+service#com.dzo.HanumanChalisaWithAudioAndAlarm.ChalisaService
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:204:9-51
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:204:18-48
+service#com.dzo.HanumanChalisaWithAudioAndAlarm.NotificationService
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:205:9-56
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:205:18-53
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.Home
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:207:9-215:20
+	android:screenOrientation
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:209:13-49
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:208:13-33
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:210:13-214:29
+action#android.intent.action.VIEW
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:211:17-69
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:211:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:213:17-76
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:213:27-73
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.BottomNav
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:216:9-219:15
+	android:label
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:218:13-29
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:217:13-38
+activity#com.dzo.HanumanChalisaWithAudioAndAlarm.Loading
+ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:220:9-54
+	android:name
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml:220:19-42
+uses-sdk
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+MERGED from [:flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingUpPanelLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:slidingUpPanelLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:roundedImageViewLib] E:\vivek\HanumanChalisaWithAudioAndAlarm5\roundedImageViewLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:roundedImageViewLib] E:\vivek\HanumanChalisaWithAudioAndAlarm5\roundedImageViewLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6a17472758553f106bed9dabe9d2e0ac\firebase-core-16.0.8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6a17472758553f106bed9dabe9d2e0ac\firebase-core-16.0.8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8c3030d54c355ecfe7b5d180476c299b\firebase-analytics-16.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8c3030d54c355ecfe7b5d180476c299b\firebase-analytics-16.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f1fb37bded1b3eab4802018448533bc\firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f1fb37bded1b3eab4802018448533bc\firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\472c1fc7ae234eeab1e8661e1d3e35ec\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\472c1fc7ae234eeab1e8661e1d3e35ec\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6219475007926e618c0ccef59df67e75\firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6219475007926e618c0ccef59df67e75\firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c03bb05b42be32ae53e9a2b2bc492a7\play-services-measurement-sdk-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c03bb05b42be32ae53e9a2b2bc492a7\play-services-measurement-sdk-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ede359b0bf032c8682299509587a4e7b\play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ede359b0bf032c8682299509587a4e7b\play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\694b28ba8c32655bc649c2ddf3029c9a\play-services-measurement-sdk-api-16.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4ba57973ce756796cf628c673ef76157\play-services-measurement-base-16.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4ba57973ce756796cf628c673ef76157\play-services-measurement-base-16.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7f95365a22a2dda7ebd34add34b1d03b\play-services-ads-identifier-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7f95365a22a2dda7ebd34add34b1d03b\play-services-ads-identifier-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a94edf78a298bc4b357b6079e102cc4b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a94edf78a298bc4b357b6079e102cc4b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b7dc2e499cd571b6c5ba0eec437866f1\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b7dc2e499cd571b6c5ba0eec437866f1\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9524f5404de7b2826639b0f6a372f533\glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9524f5404de7b2826639b0f6a372f533\glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ad6141accb91052c9870b8d2e14fec9d\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ad6141accb91052c9870b8d2e14fec9d\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e2a029a3290af16a4d419d2d501adeda\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e2a029a3290af16a4d419d2d501adeda\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6d1ac33fa7bf63a59abf96edc65f6fce\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6d1ac33fa7bf63a59abf96edc65f6fce\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a063d58e888064bd018cfb793522c0df\gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a063d58e888064bd018cfb793522c0df\gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+		ADDED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+		INJECTED from E:\vivek\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\47f7a0b46007271170cd34610b9c93c5\firebase-messaging-17.5.0\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\179348cecfae82187c1f7dd990f6faa8\play-services-measurement-api-16.4.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\20d5305a7bde452b04a196f5c2dabf41\firebase-iid-17.1.1\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e198ed20d9d4c2e48c667a42e81d9cb5\firebase-common-16.1.0\AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b9ffff42fac733baed479ce77a508552\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba07ab957fee9f69598eb7106faeaa91\play-services-measurement-impl-16.4.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f10d1c4b8b14af73c5ecc7fdb9dc67\play-services-measurement-16.4.0\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\3dee83c169d1a31ad8e57a3b0daf08e8\play-services-basement-16.2.0\AndroidManifest.xml:24:13-58

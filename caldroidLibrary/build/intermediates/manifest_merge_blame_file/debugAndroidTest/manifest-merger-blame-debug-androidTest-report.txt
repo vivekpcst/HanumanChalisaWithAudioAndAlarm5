@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.caldroid.test" >
+4
+5    <uses-sdk
+5-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:5:5-73
+6        android:minSdkVersion="8"
+6-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:5:15-40
+7        android:targetSdkVersion="17" />
+7-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:5:41-70
+8
+9    <instrumentation
+9-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:11:5-15:67
+10        android:name="android.test.InstrumentationTestRunner"
+10-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:11:22-75
+11        android:functionalTest="false"
+11-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:14:22-52
+12        android:handleProfiling="false"
+12-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:13:22-53
+13        android:label="Tests for com.caldroid.test"
+13-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:15:22-65
+14        android:targetPackage="com.caldroid.test" />
+14-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:12:22-63
+15
+16    <application
+16-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:7:5-9:19
+17        android:allowBackup="true"
+17-->[__tested_artifact__::caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-35
+18        android:debuggable="true"
+18-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:7:18-43
+19        android:icon="@drawable/ic_launcher"
+19-->[__tested_artifact__::caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-45
+20        android:label="@string/app_name"
+20-->[__tested_artifact__::caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-41
+21        android:theme="@style/AppTheme" >
+21-->[__tested_artifact__::caldroidLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-40
+22        <uses-library android:name="android.test.runner" />
+22-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:8:9-60
+22-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2392243652158630175.xml:8:23-57
+23    </application>
+24
+25</manifest>

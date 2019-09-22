@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545948820240",
+    "firebase_url": "https://religious-notification.firebaseio.com",
+    "project_id": "religious-notification",
+    "storage_bucket": "religious-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545948820240:android:09a5449ad2086efd",
+        "android_client_info": {
+          "package_name": "com.dzo.HanumanChalisaWithAudioAndAlarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545948820240-vog8gqo1tfhejdn7oin7naerv9vid5ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dzo.HanumanChalisaWithAudioAndAlarm",
+            "certificate_hash": "81c78bf923479323fdffcb78835271b3e3ba6064"
+          }
+        },
+        {
+          "client_id": "545948820240-388cuvnb92gvt1o0cgbjbqn5jgcrurjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrJw_0YKduYaWcYV6MoWiPJAD-VvgHbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545948820240-388cuvnb92gvt1o0cgbjbqn5jgcrurjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

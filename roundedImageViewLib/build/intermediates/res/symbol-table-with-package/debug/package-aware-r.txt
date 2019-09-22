@@ -1,0 +1,7 @@
+com.makeramen
+attr border_color
+attr border_width
+attr corner_radius
+attr mutate_background
+attr oval
+styleable RoundedImageView android_scaleType border_color border_width corner_radius mutate_background oval

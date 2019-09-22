@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+attr? anchorPoint
+attr? dragView
+attr? fadeColor
+attr? flingVelocity
+attr? initialState
+attr? overlay
+attr? panelHeight
+attr? paralaxOffset
+attr? shadowHeight
+drawable above_shadow
+drawable below_shadow
+id anchored
+id collapsed
+id expanded
+id hidden
+styleable SlidingUpPanelLayout panelHeight shadowHeight paralaxOffset fadeColor flingVelocity dragView overlay anchorPoint initialState

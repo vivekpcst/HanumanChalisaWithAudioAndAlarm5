@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4ef8a575af08eba03c59dabbdd1212aa8a36be66">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_f38ca92e50582ea6b90215c6efcaf6fd5c9658b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\bundles\default\libs\date4j.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="543efec7c462ed7b5eabf8fc77f87bd35e18cd0b">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\date4j_6bf9fcf3724416a0371355b071b74e7e8eeca6ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_84156eefea0b9ebd16d8097187cca1cab03ab03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_f36082640b2dfd8736de2a45122df2944370be89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\101d04e10c221336954fbe3855fd4f6cd2379118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_6d72cc378f35a132296443e2dce8e6483479fc89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\roundedImageViewLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6959a1e8628df21a81ad5f306ed0302996a5c199">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_9f627880b8f319a3e21cabf93dd1572726fbf230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="589aca2deae6e623d24acaf777a0efd92a574f92">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_87c6387363855bdec134b51b6acf50e29d860e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="589aca2deae6e623d24acaf777a0efd92a574f92">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_87c6387363855bdec134b51b6acf50e29d860e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_f36082640b2dfd8736de2a45122df2944370be89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_84156eefea0b9ebd16d8097187cca1cab03ab03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\roundedImageViewLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6959a1e8628df21a81ad5f306ed0302996a5c199">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_9f627880b8f319a3e21cabf93dd1572726fbf230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\bundles\default\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_e69c6921cd838aed56900434ad72cd445840dc9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\b50504a82bbaf6e9217a0855ec2a181a414357b7\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_59c74b0d721514e292b23a40094fd8790be4303b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\bundles\default\libs\date4j.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="543efec7c462ed7b5eabf8fc77f87bd35e18cd0b">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\date4j_6bf9fcf3724416a0371355b071b74e7e8eeca6ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\bundles\default\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_e69c6921cd838aed56900434ad72cd445840dc9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\b50504a82bbaf6e9217a0855ec2a181a414357b7\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_59c74b0d721514e292b23a40094fd8790be4303b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\b50504a82bbaf6e9217a0855ec2a181a414357b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_45beda006a3a6ec43719106de9c18bf1550944da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\gson-2.2.4_6bf28d82dbda7a4cae1b571dbaaf5d437c2aea06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\85bb3905fd2c1e449c84725f7caac10884b1f590\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_2e7e5f6f5baa30fef1e1116333db1bae1a188706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\85bb3905fd2c1e449c84725f7caac10884b1f590\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_2e7e5f6f5baa30fef1e1116333db1bae1a188706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\101d04e10c221336954fbe3855fd4f6cd2379118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_6d72cc378f35a132296443e2dce8e6483479fc89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.android\build-cache\b50504a82bbaf6e9217a0855ec2a181a414357b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_45beda006a3a6ec43719106de9c18bf1550944da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\caldroidLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8a575af08eba03c59dabbdd1212aa8a36be66">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_f38ca92e50582ea6b90215c6efcaf6fd5c9658b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7df21647bca4a27a9aaf129f7255a1d26f0f6524">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_cd95c6b78d889b1f7d5f97a18b4c70f851e40d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\slidingUpPanelLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7df21647bca4a27a9aaf129f7255a1d26f0f6524">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\classes_cd95c6b78d889b1f7d5f97a18b4c70f851e40d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\android\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\sandeep\HanumanChalisaWithAudioAndAlarm5\hanumanChalisaWithAudioAndAlarm\build\intermediates\pre-dexed\debug\gson-2.2.4_6bf28d82dbda7a4cae1b571dbaaf5d437c2aea06.jar" />
+    </item>
+
+</items>

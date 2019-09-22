@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="aarti_header_bg">#f7e03c</color>
+     <color name="aarti_header_text">#650304</color>
+     <color name="txt">#FFFFFF</color>
+     <color name="white">#FFFFFF</color>
+     <color name="home_txt">#f8eac7</color>
+     <color name="line">#ABABAB</color>
+     <color name="info">#1C1C1C</color>
+     <color name="info1">#A4A4A4</color>
+     <color name="transparent">#000000</color>
+     <color name="black">#000000</color>
+     <color name="redwine">#6b0400</color>
+     <color name="orangelight">#ff7900</color>
+     <color name="orangedark">#DF7401</color>
+     <color name="red">#d30000</color> 
+     <color name="green">#8FCC85</color>
+    <color name="blue">#ff33b5e5</color>
+</resources>

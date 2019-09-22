@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.dzo.HanumanChalisaWithAudioAndAlarm"
+    android:installLocation="auto"
+    >
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <!-- <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/> -->
+
+
+    <!-- Reminder -->
+
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <!-- Reminder -->
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true"
+        />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".application.DzoHanumanApplication"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:protectionLevel="signature"
+        android:theme="@style/AppTheme.NoActionBar"
+        tools:replace="android:icon,android:theme">
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".StartManualActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".English"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BaseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".About"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".HanuAlarm"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SnoozeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name=".MultipleAlarmActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SetAlarmActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MultipleAlarmActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MultipleAlarmActivity"/>
+        </activity>
+        <activity
+            android:name=".AlarmTimeDetail"
+            android:screenOrientation="portrait"
+            >
+
+        </activity>
+
+        <activity
+            android:name=".Feedback"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Play" />
+        <activity android:name=".FestivalCalendarActivity" />
+
+        <!--
+        <receiver
+            android:name=".GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND"
+            android:process=":remote">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.dzo.HanumanChalisaWithAudioAndAlarm" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".GcmIntentService" />
+        -->
+
+        <receiver android:name="com.dzo.HanumanChalisaWithAudioAndAlarm.NotificatioAlarmReceiver"
+            android:enabled="true"
+            android:exported="false">
+        </receiver>
+
+        <receiver
+            android:name=".receiver.AlarmReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.dzo.HanumanChalisaWithAudioAndAlarm.RECEIVEALARM" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".receiver.BootCompleteReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Content provider to hold data for calendar -->
+        <provider
+            android:name=".contentprovider.FestivalCalendarProvider"
+            android:authorities="com.dzo.HanumanChalisaWithAudioAndAlarm.contentprovider.FESTIVAL_CONTENT_PROVIDER"
+            android:exported="false" />
+
+        <service
+            android:name=".calendarsync.SyncService"
+            android:exported="false">
+
+            <!--
+            This intent filter is required. It allows the system to launch our sync service
+            as needed.
+            -->
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+            </intent-filter>
+            <!-- This points to a required XML file which describes our SyncAdapter. -->
+            <meta-data
+                android:name="android.content.SyncAdapter"
+                android:resource="@xml/syncadapter" />
+        </service>
+
+        <!--
+        This implements the account we'll use as an attachment point for our SyncAdapter. Since
+        our SyncAdapter doesn't need to authenticate the current user (it just fetches a public RSS
+        feed), this account's implementation is largely empty.
+
+        It's also possible to attach a SyncAdapter to an existing account provided by another
+        package. In that case, this element could be omitted here.
+        -->
+        <service
+            android:name=".account.GenericAccountService"
+            android:exported="false"> <!-- Required filter used by the system to launch our account service. -->
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+            </intent-filter>
+            <!-- This points to an XMLf ile which describes our account service. -->
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/authenticator" />
+        </service>
+        <service android:name=".firebase.FirebaseNotificationService"
+            android:exported="false"
+            >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+            <meta-data
+                android:name="com.google.firebase.messaging.default_notification_icon"
+                android:resource="@drawable/ic_small_icon" />
+            <meta-data
+                android:name="com.google.firebase.messaging.default_notification_color"
+                android:resource="@color/orangedark" />
+            <meta-data
+                android:name="com.google.firebase.messaging.default_notification_channel_id"
+                android:value="hanuman_chalisa001" />
+        </service>
+        <service android:name=".ChalisaService" />
+        <service android:name=".NotificationService" />
+
+        <activity
+            android:name=".Home"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BottomNav"
+            android:label=""
+            />
+        <activity android:name=".Loading"></activity>
+    </application>
+
+</manifest>

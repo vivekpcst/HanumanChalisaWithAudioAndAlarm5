@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+attr? border_color
+attr? border_width
+attr? corner_radius
+attr? mutate_background
+attr? oval
+styleable RoundedImageView corner_radius border_width border_color mutate_background oval android:scaleType

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/scrolll"
+    android:id="@+id/parentRel">
+     
+     <RelativeLayout
+          android:id="@+id/reltop"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentTop="true"
+          android:layout_centerHorizontal="true"
+          android:layout_gravity="center"
+          android:orientation="horizontal"
+          android:gravity="center"
+          android:layout_below="@+id/parentRel"
+          android:layout_marginTop="15dp">
+     		
+          <LinearLayout 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:id="@+id/linHanuHeader"
+              android:gravity="center"
+              android:layout_marginLeft="10dp">
+      			<TextView
+            	android:id="@+id/txtHeader"
+            	android:layout_width="fill_parent"
+            	android:layout_height="wrap_content"
+            	android:textColor="@color/redwine"
+            	android:text="@string/header"
+            	android:textSize="62sp"
+            	android:textStyle="bold"
+            	android:layout_marginLeft="60dp"
+            	android:layout_gravity="center"
+            	android:layout_marginTop="4dp"/>
+          </LinearLayout>
+
+          <LinearLayout 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:layout_toRightOf="@+id/linHanuHeader"
+              android:id="@+id/linHindiToggle"
+              android:gravity="center"
+              android:layout_marginLeft="15dp">
+          	<!-- <ImageButton
+              android:id="@+id/btnHindi"
+              android:layout_width="40dp"
+              android:layout_height="40dp"
+              android:layout_marginLeft="15dp"
+              android:layout_marginRight="15dp"
+              android:background="@drawable/alpha_hindi"
+              android:scaleType="fitCenter"
+              android:visibility="visible"
+              android:layout_gravity="center"/> -->
+         	</LinearLayout>
+   		</RelativeLayout>
+  <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:orientation="vertical" 
+    android:layout_below="@+id/reltop"
+    android:id="@+id/secondLayout"
+    android:layout_above="@+id/dock_menu"
+    android:layout_marginTop="30dp">
+      
+        <com.dzo.HanumanChalisaWithAudioAndAlarm.PagerWithPageControl
+            android:id="@+id/horizontal_pager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="20dp"
+    		android:layout_marginRight="20dp"> 
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu1"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"/>
+
+             <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu2"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu3"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"/>
+
+          <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu4"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu5"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu6"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu7"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu8"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu9"
+                android:textColor="@color/redwine"
+                android:textSize="40sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu10"
+                android:textColor="@color/redwine"
+                android:textSize="35sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu11"
+                android:textColor="@color/redwine"
+                android:textSize="35sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu12"
+                android:textColor="@color/redwine"
+                android:textSize="35sp"
+                />
+           
+        </com.dzo.HanumanChalisaWithAudioAndAlarm.PagerWithPageControl>   
+   </LinearLayout>
+
+
+		
+	<LinearLayout 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" 
+		android:id="@+id/dock_menu"
+		android:orientation="horizontal"
+		android:layout_alignParentBottom="true"
+		android:weightSum="1">
+	
+	<!-- <LinearLayout 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:id="@+id/linHomebtn"
+		android:orientation="vertical"
+		android:layout_weight="0.2"
+		android:layout_gravity="center"
+		android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp">
+		<ImageButton
+                    android:id="@+id/btnHome"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp" 
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/home"
+                    android:layout_gravity="center"
+                    android:scaleType="fitCenter"/>
+                    <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/home"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:id="@+id/txtHome"
+                    android:layout_gravity="center"/>
+              
+	</LinearLayout> -->
+	
+	<!-- <LinearLayout 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:id="@+id/linHindibtn"
+		android:orientation="vertical"
+		android:layout_weight="0.2"
+		android:layout_gravity="center"
+		android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp">
+		<ImageButton
+                   android:visibility="visible"
+                    android:id="@+id/btnEnglish"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp" 
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/read_english"
+                    android:layout_gravity="center"
+                    android:scaleType="fitCenter"/>
+                    <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/english"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:id="@+id/txtEnglish"
+                    android:layout_gravity="center"/>
+              
+	</LinearLayout> -->
+	
+	<!-- <LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:id="@+id/linAudiobtn"
+		android:orientation="vertical"
+		android:layout_weight="0.2"
+		android:layout_gravity="center"
+		android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp">
+		<ImageButton
+                    android:id="@+id/btnAudio"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp" 
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/play"
+                    android:layout_gravity="center"
+                    android:scaleType="fitCenter"/>
+                   <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txtPlay"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:text="@string/play"/>
+              
+	</LinearLayout> -->
+	<!-- <LinearLayout android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:id="@+id/linAboutbtn"
+		android:orientation="vertical"
+		android:layout_weight="0.2"
+		android:layout_gravity="center"
+		android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp">
+		
+		<ImageButton
+                    android:id="@+id/btnLogo"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp" 
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/info"
+                    android:layout_gravity="center"
+                    android:scaleType="fitCenter"/>
+                   <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:id="@+id/txtInfo"
+                    android:layout_gravity="center"/>
+	
+	</LinearLayout> -->
+	<!-- <LinearLayout 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:id="@+id/linExitbtn"
+		android:orientation="vertical"
+		android:layout_weight="0.2"
+		android:layout_gravity="center"
+		android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp">
+		<ImageButton
+                   android:visibility="visible"
+                    android:id="@+id/btn_Exit"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp" 
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/exit"
+                    android:layout_gravity="center"
+                    android:scaleType="fitCenter"/>
+                    <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/exit"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:id="@+id/txtExit"
+                    android:layout_gravity="center"/>
+              
+	</LinearLayout> -->
+</LinearLayout>
+         
+ 
+
+
+</RelativeLayout>

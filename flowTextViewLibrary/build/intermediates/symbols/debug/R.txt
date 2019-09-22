@@ -1,0 +1,13 @@
+int attr setTextSize 0x7f040001
+int drawable ic_action_search 0x7f080001
+int drawable ic_launcher 0x7f080002
+int id menu_settings 0x7f0b0001
+int menu activity_main 0x7f0f0001
+int raw template1 0x7f130001
+int string app_name 0x7f140001
+int string hello_world 0x7f140002
+int string menu_settings 0x7f140003
+int string title_activity_main 0x7f140004
+int style AppTheme 0x7f150001
+int[] styleable FlowTextView { 0x7f040001 }
+int styleable FlowTextView_setTextSize 0

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/menu_arti"
+        android:icon="@drawable/arti_sangrah"
+        android:title="Arti Sangrah"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/menu_hc_multi"
+        android:icon="@drawable/hc_multi_lang"
+        android:title="Hanuman Chalisa Multi Language"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/menu_krishna"
+        android:icon="@drawable/sri_krishna"
+        android:title="Shri Krishna App"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/menu_sai_baba"
+        android:icon="@drawable/sai_baba"
+        android:title="Shri Sai Baba"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/menu_gurbani"
+        android:icon="@drawable/gurbani"
+        android:title="Gurbani Nitnem"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

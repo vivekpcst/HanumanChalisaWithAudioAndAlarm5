@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\vivek\\HanumanChalisaWithAudioAndAlarm5\\hanumanChalisaWithAudioAndAlarm\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-2\\files-2.1\\b320a443effd06c78f4f9e5ddfe89b1a\\appcompat-v7-28.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "158",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "430"
+                    }
+                },
+                {
+                    "source": "E:\\vivek\\HanumanChalisaWithAudioAndAlarm5\\hanumanChalisaWithAudioAndAlarm\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "5,4",
+                        "startOffsets": "234,294",
+                        "endColumns": "59,43",
+                        "endOffsets": "288,333"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,43",
+                        "endOffsets": "109,153"
+                    }
+                }
+            ]
+        }
+    ]
+}

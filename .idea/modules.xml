@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HanumanChalisaWithAudioAndAlarm5.iml" filepath="$PROJECT_DIR$/HanumanChalisaWithAudioAndAlarm5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caldroidLibrary/caldroidLibrary.iml" filepath="$PROJECT_DIR$/caldroidLibrary/caldroidLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowTextViewLibrary/flowTextViewLibrary.iml" filepath="$PROJECT_DIR$/flowTextViewLibrary/flowTextViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hanumanChalisaWithAudioAndAlarm/hanumanChalisaWithAudioAndAlarm.iml" filepath="$PROJECT_DIR$/hanumanChalisaWithAudioAndAlarm/hanumanChalisaWithAudioAndAlarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundedImageViewLib/roundedImageViewLib.iml" filepath="$PROJECT_DIR$/roundedImageViewLib/roundedImageViewLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingUpPanelLibrary/slidingUpPanelLibrary.iml" filepath="$PROJECT_DIR$/slidingUpPanelLibrary/slidingUpPanelLibrary.iml" />
+    </modules>
+  </component>
+</project>

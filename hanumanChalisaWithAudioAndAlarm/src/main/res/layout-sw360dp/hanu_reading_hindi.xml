@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/scrolll"
+    android:id="@+id/parentLayout">
+     
+    <RelativeLayout
+          android:id="@+id/reltop"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignParentTop="true"
+          android:layout_centerHorizontal="true"
+          android:layout_gravity="center"
+          android:orientation="horizontal"
+          android:gravity="center"
+          android:layout_below="@+id/parentLayout">
+     		
+          <LinearLayout 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:id="@+id/linHanuHeader"
+              android:gravity="center">
+      			<TextView
+            	android:id="@+id/txtHeader"
+            	android:layout_width="fill_parent"
+            	android:layout_height="wrap_content"
+            	android:textColor="@color/redwine"
+            	android:text="@string/header"
+            	android:textSize="18sp"
+            	android:textStyle="bold"
+            	android:layout_marginTop="5dp"
+            	android:layout_marginLeft="40dp"
+            	android:layout_gravity="center"/>
+          </LinearLayout>
+
+          <LinearLayout 
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:layout_toRightOf="@+id/linHanuHeader"
+              android:id="@+id/linHindiToggle"
+              android:gravity="center">
+          	<!-- <ImageButton
+              android:id="@+id/btnEnglish"
+              android:layout_width="25dp"
+              android:layout_height="25dp"
+              android:layout_marginLeft="15dp"
+              android:layout_marginRight="15dp"
+              android:layout_marginTop="3dp"
+              android:background="@drawable/alpha_english"
+              android:scaleType="fitCenter"
+              android:visibility="visible"
+              android:layout_gravity="center"/> -->
+         	</LinearLayout>
+   		</RelativeLayout>
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:orientation="vertical" 
+    android:layout_below="@+id/reltop"
+    android:layout_marginTop="20dp"
+    android:id="@+id/thirdLayout">
+         <com.dzo.HanumanChalisaWithAudioAndAlarm.PagerWithPageControl
+            android:id="@+id/horizontal_pager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu1"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"/>
+
+             <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu2"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu3"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"/>
+
+          <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu4"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu5"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu6"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu7"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu8"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu9"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu10"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu11"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/hanu12"
+                android:textColor="@color/redwine"
+                android:textSize="16sp"
+                />
+           
+              
+        </com.dzo.HanumanChalisaWithAudioAndAlarm.PagerWithPageControl>  
+    </LinearLayout>
+    
+    
+<!-- </RelativeLayout>  -->
+
+</RelativeLayout>

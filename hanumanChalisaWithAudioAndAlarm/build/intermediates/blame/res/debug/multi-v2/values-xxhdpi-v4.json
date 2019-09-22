@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\vivek\\HanumanChalisaWithAudioAndAlarm5\\hanumanChalisaWithAudioAndAlarm\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "E:\\vivek\\HanumanChalisaWithAudioAndAlarm5\\hanumanChalisaWithAudioAndAlarm\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "5,4",
+                        "startOffsets": "234,294",
+                        "endColumns": "59,43",
+                        "endOffsets": "288,333"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,43",
+                        "endOffsets": "109,153"
+                    }
+                }
+            ]
+        }
+    ]
+}

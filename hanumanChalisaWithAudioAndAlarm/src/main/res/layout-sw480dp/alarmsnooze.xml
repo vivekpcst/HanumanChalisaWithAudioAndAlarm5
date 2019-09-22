@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+	
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:drawable/dialog_frame"
+		android:gravity="center_vertical"
+		android:layout_marginTop="270dp">
+  	
+  	<LinearLayout 
+		android:layout_height="wrap_content"
+		android:id="@+id/linearLayout1" 
+		android:layout_width="fill_parent"
+		android:layout_marginTop="20dp"
+		android:gravity="center">
+		
+		<TextView 
+		    android:text="12:59 PM" 
+		    android:id="@+id/txtTime" 
+		    android:textSize="40sp" 
+		    android:textStyle="bold" 
+		    android:paddingBottom="16dp"
+			android:paddingTop="8dp" 
+			android:paddingLeft="10dp" 
+			android:paddingRight="2dp"
+			android:textColor="#fff" 
+			android:gravity="center"
+			android:layout_gravity="center"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"/>
+		
+		<!-- <TextView 
+		    android:text=":" 
+		    android:id="@+id/txtCol" 
+		    android:textSize="28sp" 
+		    android:textStyle="bold" 
+		    android:paddingBottom="16dp"
+			android:paddingTop="15dp" 
+			android:paddingLeft="2dp" 
+			android:paddingRight="2dp"
+			android:textColor="#fff" 
+			android:gravity="center"
+			android:layout_gravity="center"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"/>
+		
+		<TextView 
+		    android:text="59" 
+		    android:id="@+id/txtMin" 
+		    android:textSize="35sp" 
+		    android:textStyle="bold" 
+		    android:paddingBottom="16dp"
+			android:paddingTop="8dp" 
+			android:paddingLeft="2dp"
+			android:textColor="#fff" 
+			android:gravity="center"
+			android:layout_gravity="center"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"/>
+		<TextView 
+		    android:text="AM" 
+		    android:id="@+id/txtHourOfDay" 
+		    android:textSize="35sp" 
+		    android:textStyle="bold" 
+		    android:paddingBottom="16dp"
+			android:paddingTop="8dp" 
+			android:paddingLeft="2dp"
+			android:textColor="#fff" 
+			android:gravity="center"
+			android:layout_gravity="center"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"/> -->
+	</LinearLayout>
+	<LinearLayout 
+	    android:gravity="center" 
+	    android:layout_gravity="bottom" 
+	    android:id="@+id/linearLayout2"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:weightSum="1">
+		
+		<Button 
+		    android:text="@string/snooze"
+		    android:textSize="20sp" 
+		    android:layout_width="wrap_content"
+			android:id="@+id/btnSnooze" 
+			android:layout_gravity="center"
+			android:layout_height="wrap_content"
+			android:layout_weight="0.5"/>
+		<Button 
+		    android:text="@string/dismiss" 
+		    android:textSize="20sp"
+		    android:layout_width="wrap_content"
+			android:id="@+id/btnDismiss" 
+			android:layout_gravity="center"
+			android:layout_height="wrap_content"
+			android:layout_weight="0.5"/>
+	</LinearLayout>
+</LinearLayout>
+</LinearLayout>

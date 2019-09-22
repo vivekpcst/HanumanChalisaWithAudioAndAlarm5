@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, StartActivity!</string>
+    <string name="emailHeader">Email: </string>
+    <string name="app_name">Hanuman Chalisa (Audio/Alarm)</string>
+    <string name="header">Shri Hanuman Chalisa</string>
+    <string name="chalisa_start">Shri Hanumate Namah</string>
+    <string name="doha_h">--- Doha ---</string>
+    <string name="chopai_h">---Chopai---</string>
+    <string name="description_refresh">Refresh</string>
+    <string name="action_hide">Hide Panel</string>
+    <string name="calendar">Calendar</string>
+    <string name="action_show">Show Panel</string>
+    <color name="orange">#fc7211</color>
+    <color name="yellow">#fbff8f</color>
+
+    <string name="hanu1">          --- Doha --- \n\n
+          Shri-guru charan saroj raj,\n
+ Nij manu mukur sudhari |\n\n
+Barnau Raghubar bimal jasu,\n
+ Jo dhayak phal chaari || \n\n
+
+Buddhiheen tanu jaanike,\n
+ Sumiro Pavan kumar |\n\n
+Bal buddhi vidya dehu mohe,\n
+ Harhu kalesh vikar ||\n\n\n Page-1</string>
+    <string name="hanu2">    	--- Chopai ---\n\n
+       Jai Hanuman gyan gun sagar |\n
+Jai kapees tihu lok ujagar ||\n\n
+
+Ramdoot atulit bal dhama |\n
+Anjani putr Pavan sut nama ||\n\n
+
+Mahabir Bikram bajrangee |\n
+Kumati nivar Sumati ke sangi ||\n\n
+
+Kanchan baran biraj subesa |\n
+Kanan kundal kunchit kesa ||\n \n\n\n Page-2</string>
+    <string name="hanu3">Haat vajr aur dhwaja biraje |\n
+Kandhe moonj janeu saje ||\n\n
+
+Sankar suvan kesri nandan |\n
+Tej pratap maha jag bandhan ||\n\n
+
+Vidhyavan guni ati chatur |\n
+Ram kaaj karibe ko aatur ||\n\n
+
+Prabhu charitr sunibe ko rasiya |\n
+Ram Lakhan Sita man basiya ||\n\n\n Page-3</string>
+    <string name="hanu4">  Sukshm roop dhari siyahi dhikhava |\nVikat roop dhari lank jarava ||\n\nBhim roop dhari asur sahare |\nRamchandra ke kaaj savare ||\n\n Laye Sanjeevan Lakhan jiyaye |\n Shri Raghuvir harshi ur laye ||\n\n Raghupati keenhi bahut badai |\n Tum mam priye Bharat-hi sam bhai || \n\n\n Page-4   </string>
+    <string name="hanu5">Sahas badan tumhro jas gavey |\nAs kahi shripati kant lagavey ||\n\nSankadik Bhramadhi munisa |\nNarad sarad sahit ahisa ||\n\nJam Kuber digpal jaha thay |\nKavi Kobid kahi sake kaha te ||\n\nTum upkar Sughreev-hi keenhna |\nRam milaye raj pad deenha ||\n\n\n Page-5</string>
+    <string name="hanu6">Tumroh mantr Vibhishan maana |\nLankeshvar bhaye sab jag jaana ||\n\nJug sahstr jojan per bhanu |\nLeelyo tahi madhur phal janu ||\n\nPrabhu mudrika meli mukh mahi |\nJaldhi langhi gaye achraj nahi ||\n\nDurgam kaaj jagat ke jete |\nSugam anugrah tumhre tete ||  \n\n\n Page-6  </string>
+    <string name="hanu7">Ram duaare tum rakhvare |\nHoat na aagya binu paisare ||\n\nSab sukh lahey tumhari sarna |\nTum rakshak kahu ko darna ||\n\nAapan tej samharo aapey |\nTeeno lok haak te kaapey ||\n\nBhoot pisaach nikat nahi aavey |\nMahavir jab naam sunavey ||\n\n\n Page-7  </string>
+    <string name="hanu8">Naase rog hare sab peera |\nJapat nirantar Hanumat bira ||\n\nSankat se Hanuman chhudave |\nMann kram vachan dhyan jo lavey ||\n\nSab par Ram tapasvi raja |\nTin ke kaaj sakal tum saja ||\n\nAur manorath jo koyi lavey |\nSoyi amit jeevan phal pavey || \n\n\n Page-8    </string>
+    <string name="hanu9">Charo jug prataap tumhara |\nHai prasiddh jagat ujiyara ||\n\nSadhu sant ke tum rakhvare |\nAsur nikandan Ram dulare ||\n\nAsht siddhi navnidhi ke data |\nAs bar deen Janaki mata ||\n\nRam rasayan tumhre pasa |\nSada raho Raghupati ke dasa || \n\n\n Page-9  </string>
+    <string name="hanu10">Tumhre bhajan Ram ko pavey |\nJanam janam ke dukh bisravey ||\n\nAnt kaal Raghubar pur jayi |\nJaha janam hari bhakt kahayi ||\n\nAur devta chitt na dharayi |\nHanumat seyi sarv sukh karayi ||\n\nSankat katey mitey sab peeda |\nJo sumere Hanumat balbira || \n\n\n Page-10  </string>
+    <string name="hanu11">Jai Jai Jai Hanuman gusai |\nKripa karo guru dev ke naai ||\n\nJo sat bar paath kar koyi |\nChhutehi bandhi maha sukh hoi ||\n\nJo yeh padhe Hanuman chalisa |\nHoye siddhi saki gaurisa ||\n\nTulsidas sada hari chera |\nKije nath hridaye meh dera || \n\n\n Page-11   </string>
+    <string name="hanu12">     --- Doha ---\n\n      Pavan tanaye sankat haran,\nMangal murti roop |\nRam Lakhan Sita sahit,\nHridaye basahu sur bhoop ||\n\n      --- Iti ---
+        \n\n
+        || Jai Shri Ram ||\n
+        || Jai Shri Ram ||\n
+        || Jai Shri Ram || \n\n\n Page-12</string>
+    <string name="back">Back</string>
+    <string name="time">Time</string>
+    <string name="time_val">05:00 AM</string>
+    <string name="snooze">Snooze</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+    <string name="everyday">Everyday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="repeat_on">Repeat On</string>
+    <string name="alarm_detail">Alarm Time Detail</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="alarm">Alarm</string>
+    <string name="info">Info</string>
+    <string name="exit">Exit</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="play">Play</string>
+    <string name="home">Home</string>
+    <string name="aboutapp">About App</string>
+    <string name="read">Read</string>
+    <string name="about_h">About</string>
+    <string name="logo_tag">Dotzoo is a USA based Smartphone and Web Solutions Development Company. 
+    You can reach us: </string>
+    <string name="contact">Contact</string>
+    <string name="title">Title</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="ok">OK</string>
+    <string name="email">info@dzoapps.com</string>
+    <string name="logo_tag1"> or at </string>
+    <string name="us_name">USA: </string>
+    <string name="us_no">+1&#8211;425&#8211;793&#8211;8900</string>
+    <string name="logo_tag2">in the USA, and at</string>
+    <string name="germany_name">Germany: </string>
+    <string name="germany_no">+49&#8211;228&#8211;8236&#8211;9359 </string>
+    <string name="logo_tag3">in Germany.</string>
+    <string name="about">This digitized version of the Chalisa (Prayer) is commonly recited by
+Hindus globally in honor of Lord Hanuman - Hindu God representing Strength,
+Devotion and Perseverence! </string>
+    <string name="about_1">It is believed that recital of Hanuman Chalisa, written by 
+Tulsidas (1497/1532-1623) - 
+a Hindu Poet-Saint, invokes divine intervention in dealing with grave problems and challenges.</string>
+
+
+    <string name="ratethisapp">Rate App</string>
+    <string name="sharethisapp">Share App</string>
+    <string name="feedback">Feedback</string>
+    <string name="askratethisapp">Would you like to rate this app?</string>
+    <string name="sendmail">Send</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="share_txt">Hi, I found this useful App to read and listen to the Hanuman Chalisa. It even comes with an Alram feature, so you can wake up to the sounds of the Conch (Shank) and Bells. And this App is completely FREE, with a great audio quality. \n</string>
+    <string name="vk_page_counter">Page-</string>
+
+</resources>

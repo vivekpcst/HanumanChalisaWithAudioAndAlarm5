@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.co.deanwild.flowtextview.test" >
+4
+5    <uses-sdk
+5-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:5:5-73
+6        android:minSdkVersion="8"
+6-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:5:15-40
+7        android:targetSdkVersion="27" />
+7-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:5:41-70
+8
+9    <instrumentation
+9-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:11:5-15:82
+10        android:name="android.test.InstrumentationTestRunner"
+10-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:11:22-75
+11        android:functionalTest="false"
+11-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:14:22-52
+12        android:handleProfiling="false"
+12-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:13:22-53
+13        android:label="Tests for uk.co.deanwild.flowtextview.test"
+13-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:15:22-80
+14        android:targetPackage="uk.co.deanwild.flowtextview.test" />
+14-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:12:22-78
+15
+16    <application
+16-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:7:5-9:19
+17        android:debuggable="true"
+17-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:7:18-43
+18        android:icon="@drawable/ic_launcher"
+18-->[__tested_artifact__::flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-45
+19        android:label="@string/app_name"
+19-->[__tested_artifact__::flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-41
+20        android:theme="@style/AppTheme" >
+20-->[__tested_artifact__::flowTextViewLibrary] E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-40
+21        <uses-library android:name="android.test.runner" />
+21-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:8:9-60
+21-->E:\vivek\HanumanChalisaWithAudioAndAlarm5\flowTextViewLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2671105265738090568.xml:8:23-57
+22    </application>
+23
+24</manifest>

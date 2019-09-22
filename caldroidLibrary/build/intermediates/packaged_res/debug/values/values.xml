@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="caldroid_black">#000000</color>
+    <color name="caldroid_darker_gray">#aaa</color>
+    <color name="caldroid_gray">#CCC</color>
+    <color name="caldroid_holo_blue_dark">#ff0099cc</color>
+    <color name="caldroid_holo_blue_light">#ff33b5e5</color>
+    <color name="caldroid_lighter_gray">#ddd</color>
+    <color name="caldroid_sky_blue">#FFA3E8F7</color>
+    <color name="caldroid_transparent">#00000000</color>
+    <color name="caldroid_white">#FFFFFF</color>
+    <string name="app_name">CalendarFragment</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowDisablePreview">true</item>
+
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+<!--
+-->        <item name="android:windowBackground">@drawable/disable_cell</item>
+
+
+    </style>
+    <style name="noAnimTheme" parent="android:Theme">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

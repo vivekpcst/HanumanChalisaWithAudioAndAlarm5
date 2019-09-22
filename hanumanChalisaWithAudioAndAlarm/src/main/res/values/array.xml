@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="drawerHanuTitles">
+        <item name="home">Home</item>
+        <item name="read">Read</item>
+        <item name="play">Play</item>
+        <item name="setalarm">Set Alarm</item>
+        <item name="info">Info</item>
+        <item name="exit">Calendar</item>
+    </string-array>
+    
+    <array name="drawerHanuIcon">
+        <item>@drawable/btnhome_a</item>
+        <item>@drawable/start_a_new</item>
+        <item>@drawable/btnplay_a</item>
+        <item>@drawable/btnalarm_a</item>
+        <item>@drawable/info_a</item>
+        <item>@drawable/celender</item>
+    </array>
+    
+</resources>

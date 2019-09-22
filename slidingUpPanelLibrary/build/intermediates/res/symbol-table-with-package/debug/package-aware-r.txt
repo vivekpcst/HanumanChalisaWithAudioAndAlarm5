@@ -1,0 +1,17 @@
+com.sothree.slidinguppanel.library
+attr anchorPoint
+attr dragView
+attr fadeColor
+attr flingVelocity
+attr initialState
+attr overlay
+attr panelHeight
+attr paralaxOffset
+attr shadowHeight
+drawable above_shadow
+drawable below_shadow
+id anchored
+id collapsed
+id expanded
+id hidden
+styleable SlidingUpPanelLayout anchorPoint dragView fadeColor flingVelocity initialState overlay panelHeight paralaxOffset shadowHeight
